@@ -1,7 +1,7 @@
 # Expense-Tracking-App
 Team-4 
 
-# Assignment 2 -
+# Assignment 2 
 Build Expense Tracking app
 
 # Project Name: Expense Tracking App
